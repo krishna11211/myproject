@@ -5,7 +5,7 @@ con = sqlite3.connect('contacts.db')
 dat = con.cursor() 
 
 # Creating a templete to insert contacts
-# ------ try to check if files exists or not then do this
+# ------ try to check if files exists or not the
 # dat.execute("""CREATE TABLE contacts (
 #         firstName DATATYPE,
 #         lastName DATATYPE,
