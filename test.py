@@ -1,4 +1,4 @@
-word = "hello there!"
+word = "hello"
 for i in word:
     print(i)
 guess=""
