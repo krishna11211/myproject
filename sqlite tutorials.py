@@ -1,4 +1,4 @@
-import sqlite3 # importing sqlite in python which comes by default in Python3
+import sqlite3 # importing sqlite in python which comes by default in Python
 
 conn = sqlite3.connect('tutorial.db') # create connections
 c = conn.cursor()
